@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0506b2d7-cac0-4490-908f-abf01d6e27da" name="Changes" comment="index.html update">
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="0506b2d7-cac0-4490-908f-abf01d6e27da" name="Changes" comment="chanes to index" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731107607985</updated>
-      <workItem from="1731107609192" duration="4603000" />
+      <workItem from="1731107609192" duration="5070000" />
     </task>
     <task id="LOCAL-00001" summary="Deleting Posts">
       <option name="closed" value="true" />
@@ -142,7 +139,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731112142240</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Updates to css and js">
+      <option name="closed" value="true" />
+      <created>1731112296170</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731112296170</updated>
+    </task>
+    <task id="LOCAL-00012" summary="chanes to index">
+      <option name="closed" value="true" />
+      <created>1731112548443</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731112548443</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +166,8 @@
     <MESSAGE value="Change Title in config yml" />
     <MESSAGE value="Deleting everything in index" />
     <MESSAGE value="index.html update" />
-    <option name="LAST_COMMIT_MESSAGE" value="index.html update" />
+    <MESSAGE value="Updates to css and js" />
+    <MESSAGE value="chanes to index" />
+    <option name="LAST_COMMIT_MESSAGE" value="chanes to index" />
   </component>
 </project>
