@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731107607985</updated>
-      <workItem from="1731107609192" duration="5070000" />
+      <workItem from="1731107609192" duration="5381000" />
     </task>
     <task id="LOCAL-00001" summary="Deleting Posts">
       <option name="closed" value="true" />
@@ -155,7 +155,31 @@
       <option name="project" value="LOCAL" />
       <updated>1731112548443</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="chanes to index">
+      <option name="closed" value="true" />
+      <created>1731112891984</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731112891984</updated>
+    </task>
+    <task id="LOCAL-00014" summary="chanes to index">
+      <option name="closed" value="true" />
+      <created>1731112906626</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731112906626</updated>
+    </task>
+    <task id="LOCAL-00015" summary="chanes to index">
+      <option name="closed" value="true" />
+      <created>1731112961737</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731112961737</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
