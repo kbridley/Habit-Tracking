@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0506b2d7-cac0-4490-908f-abf01d6e27da" name="Changes" comment="Deleting everything in index">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" />
-    </list>
+    <list default="true" id="0506b2d7-cac0-4490-908f-abf01d6e27da" name="Changes" comment="index.html update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +17,7 @@
   "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2oaVKDEff3ksVMgqs44hVjEIzWe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,8 +26,8 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ridle/PycharmProjects/Habit-Tracking",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -42,6 +36,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ridle\PycharmProjects\Habit-Tracking" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731107607985</updated>
-      <workItem from="1731107609192" duration="3911000" />
+      <workItem from="1731107609192" duration="4225000" />
     </task>
     <task id="LOCAL-00001" summary="Deleting Posts">
       <option name="closed" value="true" />
@@ -108,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731110503658</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Deleting everything in index">
+      <option name="closed" value="true" />
+      <created>1731111637336</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731111637336</updated>
+    </task>
+    <task id="LOCAL-00008" summary="index.html update">
+      <option name="closed" value="true" />
+      <created>1731111875491</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731111875491</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +133,7 @@
     <MESSAGE value="Deleting Posts" />
     <MESSAGE value="Change Title in config yml" />
     <MESSAGE value="Deleting everything in index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleting everything in index" />
+    <MESSAGE value="index.html update" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html update" />
   </component>
 </project>
