@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Statistics</title>
+    <title>Settings</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Habit Tracker Statistics</h1>
-    <div id="stats-container"></div>
+    <h1>Settings</h1>
+    <button id="reset-button">Reset All Habits</button>
     <a href="index.html">Back to Home</a>
 
-    <script src="statistics.js"></script>
+    <script src="settings.js"></script>
 </body>
 </html>

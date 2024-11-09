@@ -1,10 +1,23 @@
-form {
-    margin: 20px 0;
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f9;
 }
 
-input, button {
+h1 {
+    text-align: center;
+}
+
+form {
+    margin: 20px 0;
+    display: flex;
+    gap: 10px;
+}
+
+input, select, button {
     padding: 10px;
-    margin: 5px;
 }
 
 ul {
@@ -23,22 +36,39 @@ li {
 }
 
 li button {
-    margin-left: 10px;
     padding: 5px 10px;
-    background-color: #28a745;
     color: white;
     border: none;
     cursor: pointer;
 }
 
-li button:hover {
+li button:first-of-type {
+    background-color: #28a745;
+}
+
+li button:first-of-type:hover {
     background-color: #218838;
 }
 
-li button:last-child {
+li button:last-of-type {
     background-color: #dc3545;
 }
 
-li button:last-child:hover {
+li button:last-of-type:hover {
     background-color: #c82333;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+nav a:hover {
+    text-decoration: underline;
 }
