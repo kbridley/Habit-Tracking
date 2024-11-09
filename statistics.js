@@ -1,16 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Settings</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <h1>Settings</h1>
-    <button id="reset-button">Reset All Habits</button>
-    <a href="index.html">Back to Home</a>
+document.addEventListener('DOMContentLoaded', () => {
+    const totalHabitsElement = document.getElementById('total-habits');
+    const completedHabitsElement = document.getElementById('completed-habits');
+    const completionRateElement = document.getElementById('completion-rate');
 
-    <script src="settings.js"></script>
-</body>
-</html>
+    // Load saved habits from localStorage
+    const savedHabits = JSON.parse(localStorage.getItem('habits')) || [];
+
+    const totalHabits = savedHabits.length;
+    const completedHabits = savedHabits.filter(habit => habit.completed).length;
+    const completionRate = totalHabits > 0 ? Math.round((completedHabits / totalHabits) * 100) : 0;
+
+    // Update the statistics on the page
+    totalHabitsElement.textContent = totalHabits;
+    completedHabitsElement.textContent = completedHabits;
+    completionRateElement.textContent = `${completionRate}%`;
+});
